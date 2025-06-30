@@ -4,7 +4,6 @@ This folder contains the report and assets for my open source contribution to th
 
 ## Contents
 
-- `report.md`: Comprehensive report of the contribution
  Screenshot showing the navbar issue before the fix
 ![Description of image](images/before-fix.png)
 
