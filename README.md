@@ -7,6 +7,8 @@ This folder contains the report and assets for my open source contribution to th
 - `report.md`: Comprehensive report of the contribution
 - `images/before-fix.png`: Screenshot showing the navbar issue before the fix
 - `images/after-fix.png`: Screenshot showing the navbar after the fix
+![Description of image](images/before-fix.png)
+![Description of image](images/after-fix.png)
 
 ## Assignment Details
 
